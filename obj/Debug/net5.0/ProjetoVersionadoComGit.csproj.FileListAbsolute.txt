@@ -1,0 +1,16 @@
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.exe
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.deps.json
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.runtimeconfig.json
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.runtimeconfig.dev.json
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.dll
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ref\ProjetoVersionadoComGit.dll
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\bin\Debug\net5.0\ProjetoVersionadoComGit.pdb
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.csproj.AssemblyReference.cache
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.AssemblyInfoInputs.cache
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.AssemblyInfo.cs
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.csproj.CoreCompileInputs.cache
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.dll
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ref\ProjetoVersionadoComGit.dll
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.pdb
+C:\Users\fdiasfer\PROJETOS\CYBERTRON\ProjetoVersionadoComGit\obj\Debug\net5.0\ProjetoVersionadoComGit.genruntimeconfig.cache
